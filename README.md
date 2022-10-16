@@ -30,6 +30,9 @@ func GetBio() Bio {
 <h2 align="center">Me puedes encontrar en 👾 </h2>
 
 <p align="center">
+  <a href="https://www.getmanfred.com/es/perfil/trifunski">
+    <img src="https://www.getmanfred.com/images/logo-manfred.svg" alt="Adrián Mijailo Santiago Trifunski" height="30" width="30">
+  </a>
   <a href="https://www.linkedin.com/in/adri%C3%A1n-mijailo-santiago-trifunski-a20102179/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Adrián Mijailo Santiago Trifunski" height="30" width="30">
   </a>
