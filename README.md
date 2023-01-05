@@ -21,7 +21,7 @@ func GetBio() Bio {
 		"- 🔭 Trabajando en":                               "Soy un estudiante :)",
 		"- 🌱 Aprendiendo sobre":                           "React Native, JavaScript (Me esta interesando el desarrollo en dispositivos moviles)",
 		"- 👯 Proyectos en los que me gustaria participar": "Proyectos de React Native para coger experiencia",
-		"- 📫 Encuentrame en":                              "[https://github.com/Trifunski](https://www.linkedin.com/in/adri%C3%A1n-mijailo-santiago-trifunski-a20102179/)",
+		"- 📫 Encuentrame en":                              "https://www.linkedin.com/in/adri%C3%A1n-mijailo-santiago-trifunski-a20102179/",
 	}
 }
 ```
