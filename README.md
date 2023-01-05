@@ -19,10 +19,9 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Descripción rapida:":                         "Soy un aficionado de la programación, desde un niño pequeño me ha llamado la atención y por eso le dedico muchas horas y no me canso",
 		"- 🔭 Trabajando en":                               "Soy un estudiante :)",
-		"- 🌱 Aprendiendo sobre":                           "React, MongoDB, MySQL, CSS, HTML, JavaScript (Primer año de ciclo superior de Diseño Web)",
-		"- 👯 Proyectos en los que me gustaria participar": "Proyectos de Java, React o JavaScript Vanilla",
-		"- 💬 Preguntame sobre":                            "Java, PHP, Javascript y Diseño web con Bootstrap",
-		"- 📫 Encuentrame en":                              "https://github.com/Trifunski",
+		"- 🌱 Aprendiendo sobre":                           "React Native, JavaScript (Me esta interesando el desarrollo en dispositivos moviles)",
+		"- 👯 Proyectos en los que me gustaria participar": "Proyectos de React Native para coger experiencia",
+		"- 📫 Encuentrame en":                              "[https://github.com/Trifunski](https://www.linkedin.com/in/adri%C3%A1n-mijailo-santiago-trifunski-a20102179/)",
 	}
 }
 ```
