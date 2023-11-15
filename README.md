@@ -20,7 +20,7 @@ func GetBio() Bio {
 		"- ⚡ Descripción rapida:":                         "Soy un aficionado de la programación, desde un niño pequeño me ha llamado la atención y por eso le dedico muchas horas y no me canso",
 		"- 🔭 Trabajando en":                               "Soy un estudiante :)",
 		"- 🌱 Aprendiendo sobre":                           "React to the moon 🚀",
-		"- 👯 Proyectos en los que me gustaria participar": "Proyectos de React para coger experiencia",
+		"- 👯 Proyectos en los que me gustaria participar": "Proyectos de React, Laravel para coger experiencia",
 		"- 📫 Encuentrame en":                              "https://www.linkedin.com/in/adri%C3%A1n-mijailo-santiago-trifunski-a20102179/",
 	}
 }
